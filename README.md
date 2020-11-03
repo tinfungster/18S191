@@ -20,8 +20,7 @@ Please help edit the automatically-generated subtitles in the [lecture transcrip
 If you do so, please add punctuation, and please change the colour of the part you edited to a colour other than black, and different from the previous and next sections. -->
 
 ## Professors
-[Alan Edelman](http://math.mit.edu/~edelman), [David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/), [Grant Sanderson](https://www.3blue1brown.com/about), [James Schloss](https://eapsweb.mit.edu/people/jars), [Benoit Forget](https://web.mit.edu/nse/people/faculty/forget.html)
-
+[Tin Long Fung](https://www.youtube.com/channel/UC-hmiJ2XUzk3bPeOB7Bd36Q), [Philip the Corgi](https://math.mit.edu/~edelman) and [Grant Sanderson](https://www.3blue1brown.com/about)
 ### Course Material
 
 The course material includes **recorded lectures** and **Pluto notebooks**, these are available on the [course website](https://computationalthinking.mit.edu/Fall20), which will be updated regularly. 
