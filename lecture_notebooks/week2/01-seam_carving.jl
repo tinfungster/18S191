@@ -13,17 +13,8 @@ macro bind(def, element)
     end
 end
 
-# ╔═╡ 877df834-f078-11ea-303b-e98273ef98a4
-begin
-	import Pkg
-	Pkg.activate(mktempdir())
-end
-
 # ╔═╡ 0316b94c-eef6-11ea-19bc-dbc959901bb5
 begin
-	# Poor man's Project.toml
-	Pkg.add(["Images", "ImageMagick", "PlutoUI", "ImageFiltering"])
-	
 	using Images
 	using PlutoUI
 	using ImageFiltering
@@ -433,7 +424,6 @@ end
 [size(img) size(carved[n])]
 
 # ╔═╡ Cell order:
-# ╠═877df834-f078-11ea-303b-e98273ef98a4
 # ╠═0316b94c-eef6-11ea-19bc-dbc959901bb5
 # ╟─cb335074-eef7-11ea-24e8-c39a325166a1
 # ╟─bf750d0e-f35c-11ea-0245-713584583fcf
