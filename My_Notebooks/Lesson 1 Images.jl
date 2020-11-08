@@ -720,9 +720,6 @@ if (navigator.mediaDevices.getUserMedia) {
 </html>
 """ |> HTML
 
-# ╔═╡ 4ae81ee0-1ecc-11eb-2849-e532c9021c8e
-
-
 # ╔═╡ Cell order:
 # ╟─a50b5f48-e8d5-11ea-1f05-a3741b5d15ba
 # ╟─8a6fed4c-e94b-11ea-1113-d56f56fb293b
@@ -809,4 +806,3 @@ if (navigator.mediaDevices.getUserMedia) {
 # ╠═739c3bb6-e93c-11ea-127b-efb6a8ab9379
 # ╟─832ebd1a-e93c-11ea-1d18-d784f3184ebe
 # ╠═575ac320-1c66-11eb-007a-c53113a2efb4
-# ╠═4ae81ee0-1ecc-11eb-2849-e532c9021c8e
